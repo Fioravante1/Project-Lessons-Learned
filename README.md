@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Trybe" src="https://github.com/thosijulio/trybe-projects/blob/main/trybe-logo.png">
+    <img alt="Trybe" src="https://github.com/Fioravante1/Project-Lessons-Learned/blob/Fioravante-Chiozzi-lessons-learned/trybe-logo.png">
 </h1>
 
 ---

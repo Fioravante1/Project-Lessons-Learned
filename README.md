@@ -2,6 +2,18 @@
     <img alt="Trybe" src="https://github.com/Fioravante1/Project-Lessons-Learned/blob/Fioravante-Chiozzi-lessons-learned/trybe-logo.png">
 </h1>
 
+
+<h1 align="center">Projeto Lessons Learned</h1> 
+
+<p align=center>
+<a href="https://www.linkedin.com/in/fioravantechiozzi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Fioravante" height="20" width="20" /></a>
+<a href="https://github.com/Fioravante1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Fioravante" height="20" width="20" /></a>
+ </p>
+
+_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
+
+O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+
 ---
 
 ## Requisitos
